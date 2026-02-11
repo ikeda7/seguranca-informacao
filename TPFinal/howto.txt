@@ -1,0 +1,46 @@
+Etapa 1: Download do Autopsy:
+
+- Acesse o site oficial do Autopsy em https://www.sleuthkit.org/autopsy/
+- Clique na opção de download compatível com o seu sistema operacional Windows.
+
+Etapa 2: Instalação do Autopsy:
+
+- Localize o arquivo de instalação baixado (por exemplo, autopsy-x.x.x_windows.exe) e execute-o.
+- O assistente de instalação será aberto. Clique em "Next" para continuar.
+- Leia o Contrato de Licença e, se concordar, selecione "I accept the agreement" e clique em "Next".
+- Escolha o diretório de instalação (recomenda-se manter o padrão) e clique em "Next".
+- Escolha as opções adicionais que deseja instalar (recomenda-se deixar as configurações padrão) e clique em "Next".
+- Clique em "Install" para iniciar a instalação do Autopsy.
+- Após a conclusão da instalação, clique em "Finish" para finalizar o processo.
+
+Etapa 3: Execução do Autopsy:
+
+- Localize o atalho do Autopsy em sua área de trabalho ou no menu "Iniciar" e clique duas vezes para iniciar o programa.
+- O Autopsy será aberto em seu navegador padrão. O endereço padrão é http://localhost:9999/autopsy.
+- Seu navegador será redirecionado para a página inicial do Autopsy, onde você pode criar um novo caso.
+
+Etapa 4: Criação de um Novo Caso:
+
+- Na página inicial do Autopsy, clique em "Create New Case".
+- Preencha os detalhes do caso, como nome, número do caso, descrição e informações relevantes.
+- Escolha o diretório onde os dados de investigação serão armazenados (recomenda-se um local seguro) e clique em "Create Case".
+
+Etapa 5: Adição de Fontes de Evidências:
+
+- Com o caso criado, clique no nome do caso na lista de casos disponíveis.
+- Na página do caso, clique em "Add Image" para importar uma imagem de disco ou "Add Data Source" para adicionar diretórios específicos.
+- Siga as instruções para importar os dados de evidência para o caso.
+
+Etapa 6: Indexação e Análise de Dados:
+
+- Após a adição das fontes de evidências, clique em "Start" para iniciar a indexação e análise dos dados.
+- O Autopsy examinará as fontes de evidências e criará índices para facilitar a busca e pesquisa de informações relevantes.
+
+Etapa 7: Análise dos Resultados:
+
+- Utilize as opções do painel esquerdo para explorar os dados e identificar artefatos digitais.
+- Utilize a busca por palavras-chave e as visualizações gráficas para identificar padrões e conexões nos dados.
+ 
+Etapa 8: Relatório Final:
+
+- Após concluir a análise, utilize as ferramentas de relatório do Autopsy para criar um documento detalhado das descobertas e evidências coletadas durante a investigação.

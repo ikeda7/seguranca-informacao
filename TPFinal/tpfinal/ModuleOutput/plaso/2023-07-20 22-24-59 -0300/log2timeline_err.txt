@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "tools\log2timeline.py", line 68, in <module>
+  File "tools\log2timeline.py", line 54, in Main
+  File "plaso\cli\log2timeline_tool.py", line 369, in ExtractEventsFromSources
+  File "plaso\cli\storage_media_tool.py", line 1083, in ScanSource
+  File "site-packages\dfvfs\helpers\source_scanner.py", line 565, in Scan
+  File "site-packages\dfvfs\helpers\source_scanner.py", line 371, in _ScanNode
+  File "site-packages\dfvfs\vfs\file_entry.py", line 470, in IsDirectory
+  File "site-packages\dfvfs\vfs\os_file_entry.py", line 178, in _GetStat
+  File "site-packages\dfvfs\vfs\file_entry.py", line 192, in _GetStat
+  File "site-packages\dfvfs\vfs\os_file_entry.py", line 199, in access_time
+AttributeError: 'NoneType' object has no attribute 'st_atime'
+Failed to execute script log2timeline
