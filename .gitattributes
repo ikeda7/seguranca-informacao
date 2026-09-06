@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Relatórios auto-gerados pelas ferramentas forenses ALEAPP/ILEAPP.
+# Contêm MDB (Material Design Bootstrap) e jQuery de terceiros, que o
+# Linguist contava como código próprio — ~1,27 MB de JS e ~1,16 MB de CSS.
+TPFinal/tpfinal/ModuleOutput/** linguist-generated=true
